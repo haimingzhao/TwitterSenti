@@ -1,5 +1,7 @@
 # TwitterSenti
 
+PS: Do not copy for coursework.
+
 Twitter sentiment analysis execersise that includes SemEval Sentiment Analysis in Twitter task A and B.
   
 ### My final results 
@@ -26,5 +28,3 @@ Task A: 84.51 ; Task B: 62.20
 
 Did not enclude data file: Lexicon_And_WE/glove.twitter.27B/  -- It's too big. This word embedding can be downloaded from their website.
 	(But I only used word embeddings of a dimension of 25 to keep it fast, ideally it should be around 2-300 dimension)
-
-PS: Use as you wish but please do not copy for CS918 coursework.
